@@ -19,6 +19,9 @@ This project demonstrates an end-to-end data warehousing workflow:
 | **Silver** | Cleaned data | Cleansing, deduplication, standardization, and type casting |
 | **Gold** | Business-ready data | Integrated star schema built as views for reporting and analytics |
 
+<img width="1764" height="1024" alt="image" src="https://github.com/user-attachments/assets/5e241f17-cf4c-4daa-9330-ad185e602fb3" />
+
+
 ## Data Description
 
 The warehouse contains:
